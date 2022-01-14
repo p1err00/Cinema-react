@@ -1,0 +1,12 @@
+.formulaire {
+    color: burlywood;
+    margin-top: 50px;
+}
+
+.btnEnregistrer {
+    text-decoration: none;
+    margin:auto;
+    display:flex;
+    justify-content: center;
+    margin-top: 20px;
+}
